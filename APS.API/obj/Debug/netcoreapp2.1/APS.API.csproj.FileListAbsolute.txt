@@ -1,0 +1,14 @@
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\bin\Debug\netcoreapp2.1\APS.API.deps.json
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\bin\Debug\netcoreapp2.1\APS.API.runtimeconfig.json
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\bin\Debug\netcoreapp2.1\APS.API.runtimeconfig.dev.json
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\bin\Debug\netcoreapp2.1\APS.API.dll
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\bin\Debug\netcoreapp2.1\APS.API.pdb
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.csprojAssemblyReference.cache
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.csproj.CoreCompileInputs.cache
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.RazorAssemblyInfo.cache
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.RazorAssemblyInfo.cs
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.AssemblyInfoInputs.cache
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.AssemblyInfo.cs
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.RazorTargetAssemblyInfo.cache
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.dll
+C:\Users\nathy\Documents\UAM\Semestre_8\Seguranca_e_Auditoria_de_Sistemas\APS_Seguranca_Auditoria\APS.API\obj\Debug\netcoreapp2.1\APS.API.pdb
